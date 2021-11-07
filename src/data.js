@@ -3,9 +3,9 @@ export default
         
         name :'Maria Soares',
         headerTagline: [
-                        'I am Maria Soares.',
+                        'I am Maria Soares,',
                         'a full stack web developer',
-                        'from Edison'
+                        'from Edison.'
     ],
         contactEmail:'soaresmaria181@yahoo.com',
         resume: "./Maria Resume.pdf",
@@ -47,7 +47,7 @@ export default
                     id: 5,
                     title: 'Professional Portfolio',
                     service: 'My Professional Portfolio',
-                    imageSrc: "./portfolio.png",
+                    imageSrc: "./porfolio.png",
                     url: 'https://soaresmaria.github.io/professional-portfolio/#'
                 },
                 {
