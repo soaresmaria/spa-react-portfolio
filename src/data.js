@@ -21,6 +21,59 @@ export default
                 imageSrc: "./taskmaster.png",
                 url: 'https://soaresmaria.github.io/taskmaster-pro/'
             },
-        ]
-            }
-        
+            {
+                id: 2,
+                title: 'Coding Quiz',
+                service: 'Play this quick coding quiz, it is all about JavaScript',
+                imageSrc: "./web-api.png",
+                url: 'https://soaresmaria.github.io/web-api-quiz/'
+            },
+    
+               {
+                id: 3,
+                title:'Password Generator', 
+                 service:'First use of javascript', 
+                 imageSrc:"./password-gen.png",
+                 url:'https://soaresmaria.github.io/password-gen/'
+                },
+                {
+                    id: 4,
+                    title: 'Budget Tracker',
+                    service: 'Application that handles users’ financial information.',
+                    imageSrc: "./budget.png",
+                    url: 'https://financial-estimate.herokuapp.com/'
+                },
+                { 
+                    id: 5,
+                    title: 'Professional Portfolio',
+                    service: 'My Professional Portfolio',
+                    imageSrc: "./portfolio.png",
+                    url: 'https://soaresmaria.github.io/professional-portfolio/#'
+                },
+                {
+                    id: 6,
+                    title: 'Calendar App',
+                    service: 'A simple calendar app for scheduling your work day',
+                    imageSrc: "./scheduler.png",
+                    url: 'https://soaresmaria.github.io/third-party-api/'
+               }
+    
+                            
+                    
+                   
+            ],
+            social: [
+    
+                {   name:'Github',
+                    url:'https://github.com/soaresmaria'},
+                {
+                    name: 'Linkedin',
+                    url: 'https://www.linkedin.com/in/maria-soares-26941820b'
+                },
+                {
+                    name: 'Instagram',
+                    url: 'https://www.instagram.com/mariso1220/'
+                }
+    
+            ]
+        }
