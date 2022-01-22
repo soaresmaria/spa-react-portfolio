@@ -16,6 +16,9 @@ After cloning the repository you must locally install npm and the required packa
 
 ## [Usage](#table-of-contents)
 Type "npm start" to run the application once the repository has been cloned and packages have been installed. Edit the resume and personal details and create your own porfolio.
+
+## Profile Link
+https://soaresmaria.github.io/spa-react-portfolio/
           
 
 ## [Questions](#table-of-contents)
